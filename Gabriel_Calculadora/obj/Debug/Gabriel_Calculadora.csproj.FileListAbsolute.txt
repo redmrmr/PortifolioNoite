@@ -1,0 +1,8 @@
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\bin\Debug\Gabriel_Calculadora.exe.config
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\bin\Debug\Gabriel_Calculadora.exe
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\bin\Debug\Gabriel_Calculadora.pdb
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\obj\Debug\Gabriel_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\obj\Debug\Gabriel_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\obj\Debug\Gabriel_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\obj\Debug\Gabriel_Calculadora.exe
+C:\Users\jogos\Gabriel_Calculadora\Gabriel_Calculadora\obj\Debug\Gabriel_Calculadora.pdb
